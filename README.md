@@ -9,7 +9,7 @@
 ### Választott feladat:  
 **Biebel Botond, Tuba Balázs: Féléves Projektek 1.3.2. Data Science – Középhaladó Nehézségi Szint**
 
-### Adathalmaz:  
+### Választott adathalmaz:  
 Federico Soriano Palacios: [Stroke Prediction Dataset (2020)](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ---
@@ -19,7 +19,7 @@ Federico Soriano Palacios: [Stroke Prediction Dataset (2020)](https://www.kaggle
 ### **Kód**
 - A teljes Python kód minden feladattal
 ### **Adathalmaz**
-- Az adathalmaz `.csv` fájlként:
+- Az adathalmazt `.csv` fájlként:
   - `healthcare-dataset-stroke-data.csv`
 ### **Kaggle hivatkozás**
 - Az adathalmaz eredeti forrása: (Federico Soriano Palacios: Stroke Prediction Dataset (2020))
