@@ -17,7 +17,8 @@ Federico Soriano Palacios: [Stroke Prediction Dataset (2020)](https://www.kaggle
 ## **A repo tartalma**
 
 ### **Kód**
-- A teljes Python kód minden feladattal
+- A teljes Jupyter notebook `.ipynb` fájlként:
+  - `arvaipeter_O38B1K_PMA_24251_FelevesProjekt.ipynb`
 ### **Adathalmaz**
 - Az adathalmazt `.csv` fájlként:
   - `healthcare-dataset-stroke-data.csv`
