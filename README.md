@@ -21,17 +21,20 @@ Federico Soriano Palacios: [Stroke Prediction Dataset (2020)](https://www.kaggle
 ### **Adathalmaz**
 - Az adathalmazt `.csv` fájlként:
   - `healthcare-dataset-stroke-data.csv`
-### **Kaggle hivatkozás**
+### **Kaggle hivatkozás a README.md-n belül**
 - Az adathalmaz eredeti forrása: (Federico Soriano Palacios: Stroke Prediction Dataset (2020))
   [Kaggle: Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 ### **Dokumentáció**
 - Mentve `.pdf` formátumban:  
-  - `arvaipeter_O38B1K_PMA_24251_FelevesProjekt_dokumentacio`
+  - `arvaipeter_O38B1K_PMA_24251_FelevesProjekt_dokumentacio.pdf`
 
  ---
-## **Fejlesztők**
-- Árvai Péter
+## **Fejlesztők (Budapesti Műszaki és Gazdaságtudományi Egyetem)**
+- Árvai Péter (főszerkesztő)
 - Biebel Botond
 - Tuba Balázs
+## **Segítettek továbbá**
+- Fekete András (IT-Universitetet i København)
+  
 
 
