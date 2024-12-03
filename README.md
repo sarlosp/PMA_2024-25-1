@@ -26,7 +26,7 @@ Federico Soriano Palacios: [Stroke Prediction Dataset (2020)](https://www.kaggle
   [Kaggle: Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 ### **Dokumentáció**
 - Mentve `.pdf` formátumban:  
-  - `PMA_2024/25/1_1.3.2_O38B1K.pdf`
+  - `arvaipeter_O38B1K_PMA_24251_FelevesProjekt_dokumentacio`
 
  ---
 ## **Fejlesztők**
